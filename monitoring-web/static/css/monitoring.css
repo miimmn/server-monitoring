@@ -1,0 +1,17 @@
+
+@font-face {
+    font-family:'myFont';
+    src: url('/font/NanumSquareNeo-Variable.woff') format('woff');
+    font-style: normal;
+    font-weight: 400;
+  }
+
+body {
+    font-family:'myFont';
+    background-color:rgb(252, 238, 217)
+}
+
+nav {
+    background-color: white;
+}
+
